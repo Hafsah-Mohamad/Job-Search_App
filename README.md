@@ -14,8 +14,7 @@ This project is part of a Job Search App that manages companies, jobs, and users
 ## Requirements
 
 - Node.js (version 14 or higher)
-- npm or yarn
-- MongoDB (local or Atlas)
+ - MongoDB (local or Atlas)
 
 ## How to Run
 
